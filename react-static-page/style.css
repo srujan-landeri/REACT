@@ -1,0 +1,62 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.navigation-bar {
+  display: flex;
+  align-items: center;
+  background-color: #21222a;
+  height: 90px;
+  padding: 30px 25px;
+}
+
+.navigation-bar h3 {
+  color: #00d8ff;
+  margin: 0px auto 0px 13px;
+  font-family: 'Inter';
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.navigation-bar h4 {
+  color: #deebf8;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.logo {
+  width: 28px;
+}
+
+main {
+  background-color: #282d35;
+  background-image: url('https://i.postimg.cc/pLJQFssf/react-icon-large.png');
+  background-repeat: no-repeat;
+  background-position: right 60%;
+  color: white;
+  font-family: 'Inter';
+  padding: 60px;
+  height: 460px;
+}
+
+.facts {
+  margin-top: 46px;
+}
+
+.main-heading {
+  font-weight: 700;
+}
+
+.facts li {
+  font-weight: 400;
+  padding-block: 10px;
+  font-size: 16px;
+}
+
+.facts li::marker {
+  font-size: 1.3rem;
+  color: #61dafb;
+}
