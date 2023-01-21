@@ -1,0 +1,76 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-block: 5%;
+}
+.App {
+  width: 550px;
+  height: 853px;
+  font-family: 'Poppins';
+}
+.logo {
+  width: 82px;
+  margin: 22px auto 22px 30px;
+  display: block;
+}
+.img-grid {
+  width: 395.91px;
+  height: 232px;
+  display: block;
+  margin: 26px auto;
+}
+.navigation-heading {
+  margin: 32px auto 16px 36px;
+  font-weight: 600;
+}
+.navigation-content {
+  margin: 16px auto 49px 36px;
+  width: 320px;
+}
+.cards {
+  display: flex;
+  margin: 49px 0px 0px 37px;
+  padding-bottom: 15px;
+  overflow-x: auto;
+}
+.card-container {
+  margin-right: 18px;
+  position: relative;
+  font-size: 12px;
+}
+.image {
+  height: 235px;
+  width: 176px;
+  border-radius: 9px;
+  padding: 3px 0px 0px 6px;
+  box-sizing: border-box;
+}
+.card-badge {
+  padding: 3px;
+  border-radius: 2px;
+  background-color: #fff;
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  font-weight: bold;
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  margin-left: 6px;
+}
+.card-rating {
+  margin: 9px auto 8px 0px;
+}
+.card-rating {
+  color: #918e9b;
+}
+.price {
+  font-weight: 600;
+}
