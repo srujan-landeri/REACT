@@ -1,1 +1,0 @@
-QUIZZICAL APP using React
