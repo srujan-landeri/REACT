@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600&family=Inter&family=Karla:wght@700&display=swap');
+
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+.App{
+    display: flex;
+    background-color: rgb(249, 245, 245);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height:100vh;
+}
+
+.menu--container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu--title{
+    font-family: 'karla';    
+    font-size:45px;
+    margin:10px;
+    color:#4d5a9e;
+}
+
+.menu--caption{
+    font-family: 'inter';
+    font-size:14px;
+    text-transform: uppercase;
+    color:rgb(96, 96, 96);
+}
+
+.menu--button{
+    cursor: pointer;
+    margin:25px;
+    background-color: #4d5a9e;  
+    border:none;
+    color:white;
+    padding:12px;
+    width:120px;
+    font-size:15px;
+    font-family: 'Inter';
+    margin-inline:auto;
+    border-radius:10px;
+}
+
+.question--page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:10px;
+}
+
+.check--button{
+    cursor: pointer;
+    margin:25px;
+    background-color: #4d5a9e;  
+    border:none;
+    color:white;
+    padding:12px;
+    font-size:15px;
+    font-family: 'Inter';
+    /* margin-inline:auto; */
+    border-radius:10px;
+}
+
+.question{
+    color:#1f3967;
+    font-family:'karla';
+    margin-block:10px;
+}
+
+.answer{
+    margin-right:10px;
+    padding:5px 10px;
+    border:1.5px solid #4d5a9e;
+    color:#4d5a9e;
+    cursor: pointer;
+    border-radius:8px;
+}
+
+.end--line{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    align-content: baseline;
+}
+
+.score--text{
+    font-family: 'Karla';
+    font-size:18px;
+    color:#1f3967;
+}
+
+.selected{
+    background-color:#D6DBF5;
+}
+
+.correct{
+    background-color: rgb(109, 233, 109);
+}
+
+.incorrect{
+    background-color: #eeb8bc;
+}
