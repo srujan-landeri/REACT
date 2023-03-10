@@ -12,7 +12,7 @@
 > Project 5: **A digital card about me and my intrests**.\
 > Project 6: **A simple React static page, my first React app**.\
 > Project 7: **Tenzies is a challanging and fun game to play**.\
-> Project 8: **Todo's application made by integrating with Firebase**.\
+> Project 8: **Todo's application made by integrating Firebase**.\
 > Project 9: **A simple Travel Journal React app**
     
 
