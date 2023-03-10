@@ -5,8 +5,8 @@
 # React Projects
 
 
-> Project 1: **Clone AirBnb Website**.\
-> Project 2: **An interactive meme generator this 100 templates** .\
+> Project 1: **Clone of AirBnb Website**.\
+> Project 2: **An interactive meme generator with 100 templates** .\
 > Project 3: **Notes Markdown Application with basic styles and formating**.\
 > Project 4: **A Quiz Application to test know on IT field**.\
 > Project 5: **A digital card about me and my intrests**.\
