@@ -7,8 +7,8 @@
 To get started with the Museum Navigation App, follow these steps:
 
 1. Clone the repository from GitHub.
-2. Install all dependencies by running npm install in the terminal.
-3. Run the app by typing npm start in the terminal.
+2. Install all dependencies by running ```npm install``` in the terminal.
+3. Run the app by typing ```npm start``` in the terminal.
 
 ## Features
 
