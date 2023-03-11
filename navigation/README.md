@@ -37,7 +37,7 @@ To get started with the Museum Navigation App, follow these steps:
 ### Navigation Page
 <img width = '500' src = "https://i.postimg.cc/L4TKY5nX/map.png)](https://postimg.cc/7bfQjx18)" >
 
-### Naigtion Page with Direction
+### Navigation Page with Directions
 <img width = '500' src = "https://i.postimg.cc/k4qYqNNy/map-with-directions.png)](https://postimg.cc/06X0CwB6)" >
 
 ## Note
