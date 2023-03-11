@@ -42,7 +42,7 @@ To get started with the Museum Navigation App, follow these steps:
 
 ## Note
 
-<p> Please note that the app is not responsive at this time. We apologize for any inconvenience this may cause. Also, the firebase.js file has been removed from the repository for security reasons. </p>
+<p> Please note that the app is not responsive at this time. I apologize for any inconvenience this may cause. Also, the firebase.js file has been removed from the repository for security reasons. </p>
 
 ## Contributing
 
