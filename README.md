@@ -7,7 +7,7 @@
 
 > Project 1: **Clone of AirBnb Website**.\
 > Project 2: **An interactive meme generator with 100 templates** .\
-> Project 3: **An Interactive Museum Navigation Application.\
+> Project 3: **An Interactive Museum Navigation Application**.\
 > Project 4: **Notes Markdown Application with basic styles and formating**.\
 > Project 5: **A Quiz Application to test know on IT field**.\
 > Project 6: **A digital card about me and my intrests**.\
