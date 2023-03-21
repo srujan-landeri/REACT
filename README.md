@@ -2,7 +2,7 @@
 
 <h3>This repository contains a collection of React projects that I have developed. Each project is located in a separate subfolder of this repository.</h3>
 
-# React Projects
+# Projects
 
 
 > Project 1: **Clone of AirBnb Website**.\
