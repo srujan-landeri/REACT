@@ -30,4 +30,4 @@
 
 
 
-**Feel free to explore each project's subfolder for more details and instructions on how to run the project locally.**
+**Feel free to explore each project's subfolder for more details and follow the instructions on how to run the project locally.**
