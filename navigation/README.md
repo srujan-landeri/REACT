@@ -2,6 +2,8 @@
 
 <h3>This is a navigation app that helps museum visitors find their way around the museum easily. With this app, visitors can easily navigate the museum and find the exhibits they want to see.</h3>
 
+  
+
 ## Getting Started
 
 To get started with the Museum Navigation App, follow these steps:
@@ -9,6 +11,8 @@ To get started with the Museum Navigation App, follow these steps:
 1. Clone the repository from GitHub.
 2. Install all dependencies by running ```npm install``` in the terminal.
 3. Run the app by typing ```npm start``` in the terminal.
+
+🔗 https://maps-navigation.netlify.app/
 
 ## Features
 
